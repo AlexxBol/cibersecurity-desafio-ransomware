@@ -1,1 +1,2 @@
 Este é o projeto final do Bootcamp DIO com parceria Santander Academy
+Este projeto simulará um ataque ransomware, criptografando o arquivo teste e usando uma chafe para descriptografar.
